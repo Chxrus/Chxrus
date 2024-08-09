@@ -10,7 +10,7 @@
 
 * 🙋🏻 he/him
 * 🌍 I'm based in Volgograd, Russia
-* 🚀 I'm currently interesting in Flutter
+* 🚀 I'm currently interested in Flutter
 * ⚡ Also, I have <a href="https://github.com/lukovkin-a-volsu">another GitHub account</a> where you can find unversity labs
 
 <br><br><br>
