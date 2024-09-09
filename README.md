@@ -8,7 +8,7 @@
 
 <img src="https://64.media.tumblr.com/tumblr_lyt469kZ7N1rni0w9o1_250.gifv" align="right">
 
-* 🙋🏻 he/him
+* 🙋🏻 he/him, 20 y.o.
 * 🌍 I'm based in Volgograd, Russia
 * 🚀 I'm currently interested in Flutter
 * ⚡ Also, I have <a href="https://github.com/lukovkin-a-volsu">another GitHub account</a> where you can find unversity labs
