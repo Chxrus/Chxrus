@@ -29,9 +29,9 @@
 </p>
 
 ## 📌 Experience with
-- Game development using **Flame** (<a href="https://github.com/chxrus/tetris">Tetris</a> implementation)  
-- Educational mobile app (routing, DI, BLoC, local DB, PDF rendering)  
-- Incident reporting app with **Yandex MapKit**, geolocation, image processing and Dart backend (dart_frog)
+- Game development with **Flutter + Flame** - built a cross-platform **[Tetris](https://github.com/chxrus/tetris)** clone
+- Educational mobile app — **[Praxis](https://github.com/chxrus/praxis)** (routing, dependency injection, BLoC, local DB, PDF rendering)
+- **Client project**: incident reporting app - Yandex MapKit, geolocation, photo capture + image processing, Dart backend (dart_frog)
 
 ## 📬 Contacts
 
