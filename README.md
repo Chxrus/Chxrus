@@ -1,9 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=2000&color=4C45B0&center=true&vCenter=true&multiline=true&width=1000&height=90&lines=Arkady+Lukovkin)](https://git.io/typing-svg)
-
-<p align="center">
-  Mobile developer focused on building clean and scalable Flutter applications
-</p>
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=3500&color=FF6B6B&center=true&vCenter=true&multiline=true&width=1000&height=90&lines=Hi%2C+I%27m+Arkady&v=2)](https://git.io/typing-svg)
 ## 🧑‍💻 About me
 - Building mobile apps using Flutter and Dart  
 - Interested in clean architecture and design patterns  
